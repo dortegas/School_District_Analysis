@@ -39,13 +39,21 @@ We were responsible for the overall analysis of information from fifteen distric
       
      - Math and reading scores by grade
      
-       .**Math scores Analysis 1**
+       **Math scores Analysis 1**
         
         <img src="Resources/math_scores1.PNG" width="300" />
     
         **Math scores Analysis 2**
         
         <img src="Resources/math_scores2.PNG" width="300" />
+        
+        **Reading scores Analysis 1**
+        
+        <img src="Resources/reading_scores1.PNG" width="300" />
+    
+        **Reading scores Analysis 2**
+        
+        <img src="Resources/reading_scores2.PNG" width="300" />
       
      - Scores by school spending
       
