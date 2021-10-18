@@ -87,7 +87,7 @@ We were responsible for the overall analysis of information from fifteen distric
     
     ## Summary
   
-Reviewing the analysis of the school district metrics replacing the Thomas High School ninth-graders scores with the NaN value, we realize the following:
+Reviewing the analysis of the school district metrics replacing the Thomas High School ninth-graders scores with the NaN value, we got the following:
 
    - The passing math percentage decreased by ten decimal points.
    - The passing reading percentage decreased by three decimal points.
