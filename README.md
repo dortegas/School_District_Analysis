@@ -5,5 +5,5 @@ We were responsible for the overall analysis of information from fifteen distric
 
 ## Results
 
-  How is the district summary affected?
+  - How is the district summary affected?
   
