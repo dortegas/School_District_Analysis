@@ -11,5 +11,7 @@ We were responsible for the overall analysis of information from fifteen distric
     
   - How is the school summary affected?
 
+    In the school summary, Thomas High School remains in second place in the top five performing schools, so the school is not affected on the percentage passing math and reading, and the overall passing. As the images below show. 
+
     
   
