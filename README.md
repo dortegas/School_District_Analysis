@@ -59,7 +59,7 @@ We were responsible for the overall analysis of information from fifteen distric
 
         **School spending Analysis 1**
         
-        <img src="Resources/spending1.PNG" />
+        <img src="Resources/spending1.PNG" width="400" />
     
         **School spending Analysis 2**
         
