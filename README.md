@@ -59,16 +59,30 @@ We were responsible for the overall analysis of information from fifteen distric
 
         **School spending Analysis 1**
         
-        <img src="Resources/spending1.PNG" width="300" />
+        <img src="Resources/spending1.PNG" />
     
         **School spending Analysis 2**
         
-        <img src="Resources/spending2.PNG" width="300" />
+        <img src="Resources/spending2.PNG" />
       
      - Scores by school size
+
+        **School size Analysis 1**
+        
+        <img src="Resources/school_size1.PNG" />
+    
+        **School size Analysis 2**
+        
+        <img src="Resources/school_size2.PNG" />
       
      - Scores by school type
       
-
+        **School type Analysis 1**
+        
+        <img src="Resources/school_type1.PNG" />
+    
+        **School type Analysis 2**
+        
+        <img src="Resources/school_type2.PNG" />
     
   
