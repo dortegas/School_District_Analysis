@@ -41,11 +41,11 @@ We were responsible for the overall analysis of information from fifteen distric
      
        .**Math scores Analysis 1**
         
-        <img src="Resources/math_scores1.PNG" width="350" />
+        <img src="Resources/math_scores1.PNG" width="300" />
     
         **Math scores Analysis 2**
         
-        <img src="Resources/math_scores2.PNG" width="350" />
+        <img src="Resources/math_scores2.PNG" width="300" />
       
      - Scores by school spending
       
