@@ -18,10 +18,14 @@ We were responsible for the overall analysis of information from fifteen distric
   As I mentioned before, Thomas High School remained in second place in the top five performing schools. The passing math percentage decreased ten decimal points and the passing reading percentage three decimal points, which results, the overall passing decreased approximately three decimal points.
 
 - How does replacing the ninth-grade scores affect the following:
-    Math and reading scores by grade
-    Scores by school spending
-    Scores by school size
-    Scores by school type
+      Math and reading scores by grade
+      
+      Scores by school spending
+      
+      Scores by school size
+      
+      Scores by school type
+      
 
     
   
