@@ -89,7 +89,7 @@ We were responsible for the overall analysis of information from fifteen distric
   
 Reviewing the analysis of the school district metrics replacing the Thomas High School ninth-graders scores with the NaN value, we realize the following:
 
-  The passing math percentage decreased by ten decimal points.
-  The passing reading percentage decreased by three decimal points.
-  The overall passing decreased by three decimal points approximately.
-  After all, Thomas High School remained in second place in the top five performing schools
+   - The passing math percentage decreased by ten decimal points.
+   - The passing reading percentage decreased by three decimal points.
+   - The overall passing decreased by three decimal points approximately.
+   - Thomas High School remained in second place in the top five performing schools
