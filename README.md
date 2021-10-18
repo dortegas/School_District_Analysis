@@ -9,6 +9,12 @@ We were responsible for the overall analysis of information from fifteen distric
 
     The differences between the results of the school district summary show that the percentage of the overall passing decreases a decimal when we omit the Thomas High School's   ninth graders on the analysis, as the images below show. The difference between the average math score is only a decimal too. 
     
+    District summary 1
+    <img src="Resources/district_summary1.PNG" />
+    
+    District summary 2
+    <img src="Resources/district_summary2.PNG" />
+    
   - How is the school summary affected?
 
     In the school summary, Thomas High School remains in second place in the top five performing schools, so the school is not affected on the percentage passing math and reading, and the overall passing. As the images below show.
